@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="frontend/assets/images/logo.png" alt="Text Nexus AI Logo" width="120" height="120"/>
 
 # Text Nexus AI
 
