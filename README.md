@@ -26,7 +26,7 @@
 
 https://youtu.be/uFs-ezIrIic
 
->  *Watch MeetingProxy autonomously join a live Google Meet call, listen to the conversation, generate a contextual response, and reply back with a lip-synced AI avatar — in real time.*
+>  *Watch Text Nexus, how the interface looks like, the animations, the joinings, the replies and the multiple facilities / models in a single working mobile application. It takes almost no time in dealing with the backend modles which are pre-trained but again fine tuned and self trained models.*
 
 ---
 
