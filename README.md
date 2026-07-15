@@ -24,7 +24,7 @@
 
 ##  Demo
 
-https://youtu.be/uFs-ezIrIic
+[https://youtu.be/uFs-ezIrIic](https://youtube.com/shorts/gkH03tkox58)
 
 >  *Watch Text Nexus, how the interface looks like, the animations, the joinings, the replies and the multiple facilities / models in a single working mobile application. It takes almost no time in dealing with the backend modles which are pre-trained but again fine tuned and self trained models.*
 
