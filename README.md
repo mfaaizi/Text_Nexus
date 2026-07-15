@@ -12,7 +12,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Transformers-FFD21E?style=for-the-badge)](https://huggingface.co)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-> **Final Year Project** — BS Artificial Intelligence (2022–2026)
+> **Semester Project** — BS Artificial Intelligence (2022–2026)
 > 
 > Department of Computer Science, National Textile University, Faisalabad, Pakistan
 
