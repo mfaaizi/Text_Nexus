@@ -1,0 +1,28 @@
+# Flutter
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/build/
+frontend/.packages
+
+# Firebase (IMPORTANT - dont upload!)
+frontend/android/app/google-services.json
+
+# Android
+frontend/android/.gradle/
+frontend/android/local.properties
+frontend/*.apk
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/.env
+backend/models/
+
+# VS Code
+.vscode/
+
+# General
+.DS_Store
+*.log
