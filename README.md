@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="frontend/assets/images/logo.png" alt="Text Nexus AI Logo" width="120" height="120"/>
-
 # Text Nexus AI
 
 ### AI-Powered Text Processing Mobile Application
@@ -23,7 +21,14 @@
 
 ---
 
-https://youtube.com/shorts/gkH03tkox58?feature=share
+
+##  Demo
+
+https://youtu.be/uFs-ezIrIic
+
+>  *Watch MeetingProxy autonomously join a live Google Meet call, listen to the conversation, generate a contextual response, and reply back with a lip-synced AI avatar — in real time.*
+
+
 
 ## 📌 Overview
 
