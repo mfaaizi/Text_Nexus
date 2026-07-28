@@ -24,9 +24,9 @@
 
 ##  Demo
 
-https://youtu.be/uFs-ezIrIic
+https://youtube.com/shorts/gkH03tkox58?feature=share
 
->  *Watch MeetingProxy autonomously join a live Google Meet call, listen to the conversation, generate a contextual response, and reply back with a lip-synced AI avatar — in real time.*
+>  *Watch The application follows a **Client-Server Architecture** where the Flutter mobile app communicates with a local Python API server running HuggingFace transformer models for real-time AI inference.
 
 
 
@@ -34,7 +34,7 @@ https://youtu.be/uFs-ezIrIic
 
 **Text Nexus AI** is a full-stack mobile application that brings the power of state-of-the-art Natural Language Processing (NLP) to your fingertips. Built with Flutter for a seamless cross-platform mobile experience and powered by a Python Flask backend serving transformer-based AI models, Text Nexus AI provides six core text intelligence features through an intuitive, beautifully designed interface.
 
-The application follows a **Client-Server Architecture** where the Flutter mobile app communicates with a local Python API server running HuggingFace transformer models for real-time AI inference.
+
 
 ---
 
