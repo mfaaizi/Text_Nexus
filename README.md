@@ -23,6 +23,8 @@
 
 ---
 
+https://youtube.com/shorts/gkH03tkox58?feature=share
+
 ## 📌 Overview
 
 **Text Nexus AI** is a full-stack mobile application that brings the power of state-of-the-art Natural Language Processing (NLP) to your fingertips. Built with Flutter for a seamless cross-platform mobile experience and powered by a Python Flask backend serving transformer-based AI models, Text Nexus AI provides six core text intelligence features through an intuitive, beautifully designed interface.
