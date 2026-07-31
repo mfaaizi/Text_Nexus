@@ -26,7 +26,7 @@
 
 https://youtube.com/shorts/gkH03tkox58?feature=share
 
->  *Watch The application follows a **Client-Server Architecture** where the Flutter mobile app communicates with a local Python API server running HuggingFace transformer models for real-time AI inference.
+>  *Watch The application follows a **Client-Server Architecture** where the Flutter mobile app communicates with a local Python API server running transformer models and pre-trained models on large datasets for real-time AI inference. 
 
 
 
